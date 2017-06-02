@@ -114,7 +114,7 @@ You are ready to start nginx
 
 <pre>sudo nginx</pre>
 
-## [Brew PHP-FPM](https://github.com/Homebrew/homebrew-php) {.p1}
+## [Brew PHP-FPM](https://github.com/Homebrew/homebrew-php)
 
 Brewing PHP-FPM is fairly straightforward. Run these two commands and you should be off and running.
 
